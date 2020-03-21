@@ -1,6 +1,6 @@
 ---
 title: 俺たちのブログだ
-subtitle: 色々なことを描いていくよ
+subtitle: 色々なことを描いていくよ!
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
